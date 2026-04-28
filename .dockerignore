@@ -1,0 +1,12 @@
+myenv/
+venv/
+__pycache__/
+*.pyc
+*.pkl
+*.joblib
+*.csv
+*.ipynb
+.env
+.git
+.gitignore
+.vscode/

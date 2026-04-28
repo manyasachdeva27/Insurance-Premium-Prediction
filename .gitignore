@@ -1,4 +1,7 @@
-myenv/ 
-__pycache__/ 
-*.pyc 
-.vscode/ 
+# Open .gitignore and make sure it has:
+myvenv/
+myenv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
